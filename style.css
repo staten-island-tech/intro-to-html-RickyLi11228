@@ -1,0 +1,10 @@
+body{
+    background-color: rgba(6, 160, 250, 0.87);
+}
+li {
+    background-color: rgba(6, 160, 250, 0.87);
+}
+.list-item {
+    background-color: rgba(6, 160, 250, 0.87);
+    font-size: 25;
+}
